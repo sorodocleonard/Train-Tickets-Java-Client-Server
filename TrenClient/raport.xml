@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tren>
+    <listaStatii>
+        <statie>wetert</statie>
+        <statie>wetrret</statie>
+    </listaStatii>
+    <numarTren>454</numarTren>
+    <locuriLibere>31</locuriLibere>
+</tren>
